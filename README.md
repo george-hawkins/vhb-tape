@@ -3,9 +3,9 @@ Very High Bond (VHB) tape
 
 3M produce a huge array of VHB tapes for commercial use. However, for retail customers, they produce just three main types - 4611F, 4941P and 5952F.
 
-For whatever reason, in their English instructions, they only state the materials with which you should **not** use these tapes. None of them are suitable for use with PE, PP, PTFE or silicone.
+For whatever reason, in their English instructions, they really only make clear the materials with which you should **not** use these tapes. None of them are suitable for use with PE, PP, PTFE or silicone.
 
-It's only if you look at the German instructions on the packaging that the differences between the three are clear. In the German instructions, they state with which materials you should use each tape.
+It's only if you look at the German instructions on the packaging that the differences between the three are clear. In the German instructions, they list with which materials you should use each tape.
 
 4611F is the least general purpose - it is only recommended for use with "metals such as steel, stainless steel and aluminium".
 
@@ -17,7 +17,20 @@ It's only if you look at the German instructions on the packaging that the diffe
 
 5952F seems to the most general-purpose and is the type that I use - unless you have to work with soft PVC, there seems to be no reason to choose one of the other types.
 
+Note: "hochenergetischen Werkstoffen"/"high-energy materials" is an odd term in both German and English. If you search elsewhere, you'll find that 3M define it as meaning "gut zu verklebende Substrate", i.e. "substrates that are easy to bond".
+
 Below, you can find scans of the packaging for all three types with their recommended areas of use in German along with an English translation from [DeepL](https://www.deepl.com/translator).
+
+English notes
+-------------
+
+The "ranges of application" notes on the packaging, in English, aren't as comprehensive as those in German and are less consistent across the different types. But _perhaps_ the narrower wording gives a clearer idea as to the intended usage, i.e. that 4611F is for uncoated materials, in particular metal, 4941P is for vinyl and PVC materials and 5952F is for coated materials and has a wide range of applications.
+
+4611F: "Excellent temperature performance enables bonding of materials prior to processing in a powder coating line. Bonds well to metal."
+
+4941P: "Plasticiser resistant adhesive for bonding vinyl and PVC materials. Good adhesion to many painted metals and textured surfaces."
+
+5952F: "Bonds well to powder coated surfaces without complex surface preparation. For use in a number of applications including: general assembly, shop fitting, furniture mirror fittings, signage, sheet metal fabrications, automotive trim and many more."
 
 Where to buy
 ------------
